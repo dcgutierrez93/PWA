@@ -1,9 +1,10 @@
 {
     "name": "Progressive Web Application PWA",
     "short_name": "PWA",
+    "description": "A simple application showcasing how a progressive web application works",
     "icons": [
         {
-            "src": "",
+            "src": "images/icons/",
             "type": "image/png",
             "sizes": "48x48"
         }
@@ -13,7 +14,7 @@
     "display": "standalone",
     "orientation": "portrait-primary",
     "background_color": "#fff",
-    "description": "A simple application showcasing how a progressive web application works",
+    "theme_color": "#3f51b5",
     "dir": "ltr",
     "lang": "en-US"
 }
